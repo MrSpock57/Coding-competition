@@ -1,0 +1,1 @@
+cout<<"Mr.Spock57"<<endl;
